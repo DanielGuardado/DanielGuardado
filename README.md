@@ -1,5 +1,6 @@
-### Hi there 👋
-<a href="https://www.linkedin.com/in/daniel-guardado-106867197/"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+### Hey there 👋
+### Connect with me 🌐
+<a href="https://www.linkedin.com/in/daniel-guardado-106867197/"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://angel.co/u/danielguardado"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angellist.svg" /></a><a href="https://twitter.com/DanGuardado217"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 - 👷 I’m currently working on adding more features to my LitTok project!
 - 🌱 I’m currently learning ...
 
